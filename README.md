@@ -1,7 +1,7 @@
 # J. Nishi
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ji-ua&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ua&layout=compact)]
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ua&layout=compact)
 <img alt="Top Lang" hspace="6" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ji-ua">
 
 <!--
